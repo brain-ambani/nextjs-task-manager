@@ -19,7 +19,7 @@ const navLinks = [
 
 export default function SideNav() {
   return (
-    <div className=' w-[180px] h-full px-4 py-6 bg-gray-100'>
+    <div className=' w-[180px] h-screen px-4 py-6  shadow-md'>
       <div className='mb-8'>
         <Link
           href='/dashboard'
