@@ -9,7 +9,7 @@ export default function Board() {
             <input
               type='text'
               placeholder='Search project'
-              className='border-1 w-80 md:w-96 text-primary bg-gray-100 rounded-md p-2 outline-none'
+              className='border-1 w-80 md:w-96 text-primary placeholder-primary bg-gray-100 rounded-md p-2 outline-none'
             />
           </div>
           <div className='flex items-center gap-4'>
